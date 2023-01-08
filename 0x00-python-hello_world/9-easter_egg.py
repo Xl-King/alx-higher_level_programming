@@ -1,2 +1,2 @@
-#!/usr/bin/9python3
+#!/usr/bin/python3
 import this
